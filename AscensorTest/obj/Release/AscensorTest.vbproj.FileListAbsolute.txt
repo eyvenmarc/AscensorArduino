@@ -1,0 +1,12 @@
+C:\Users\José\source\repos\AscensorTest\bin\Release\AscensorTest.exe.config
+C:\Users\José\source\repos\AscensorTest\bin\Release\AscensorTest.exe
+C:\Users\José\source\repos\AscensorTest\bin\Release\AscensorTest.pdb
+C:\Users\José\source\repos\AscensorTest\bin\Release\AscensorTest.xml
+C:\Users\José\source\repos\AscensorTest\obj\Release\AscensorTest.vbproj.AssemblyReference.cache
+C:\Users\José\source\repos\AscensorTest\obj\Release\AscensorTest.frmPrincipal.resources
+C:\Users\José\source\repos\AscensorTest\obj\Release\AscensorTest.Resources.resources
+C:\Users\José\source\repos\AscensorTest\obj\Release\AscensorTest.vbproj.GenerateResource.cache
+C:\Users\José\source\repos\AscensorTest\obj\Release\AscensorTest.vbproj.CoreCompileInputs.cache
+C:\Users\José\source\repos\AscensorTest\obj\Release\AscensorTest.exe
+C:\Users\José\source\repos\AscensorTest\obj\Release\AscensorTest.xml
+C:\Users\José\source\repos\AscensorTest\obj\Release\AscensorTest.pdb
